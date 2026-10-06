@@ -1,0 +1,7 @@
+// print numebers from 1 to 30
+#include <stdio.h>
+int main()
+{
+    int i = 1;
+    
+}
